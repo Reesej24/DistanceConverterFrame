@@ -1,0 +1,3 @@
+Activity 10-11.2 Feedback
+
+I built this program based off of the JFormattedTextField example in the GUI lecture. It was very straight forward, I just had to look up the conversions online. I played around with the insets and tried making it so it would convert the input in any of the fields, but ran into some troubles there, so I put it back to just the mile conversion and everything worked fine.
